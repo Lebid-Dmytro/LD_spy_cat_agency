@@ -3,6 +3,7 @@ Quick Start
 
 # Clone the repository
 git clone https://github.com/Lebid-Dmytro/LD_spy_cat_agency.git
+
 cd LD_spy_cat_agency
 
 # Create and activate virtual environment
